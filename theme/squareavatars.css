@@ -1,1 +1,7 @@
-
+/* SquareAvatars by NuffleFluffle @ https://github.com/NuffleFluffle/SquareAvatars */
+foreignObject[mask*="url(#"] {
+    mask: none;
+}
+.avatar-2e8lTP{
+    border-radius: 0;
+}
