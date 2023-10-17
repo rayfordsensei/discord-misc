@@ -160,7 +160,7 @@ nav[aria-label="Servers sidebar"] > ul > div[class^="scroller"] > div > div[clas
 
 div[class^="pageWrapper"] div[class^="searchHeader"] > img {
 	/* Use a precomputed square image for the Discover Servers header */
-	content: url("https://sirorion.github.io/discord-misc/theme/community_server_banner_square.png");
+	content: url("community_server_banner_square.png");
 }
 
 

@@ -6401,3 +6401,8 @@ html.platform-win .titleBar-1it3bQ .wordmarkWindows-2dq6rw path:first-child {
   .button-2gNyE9:not(.fauxDisabled-8w0hCZ):hover {
   color: var(--interactive-hover);
 }
+/* !important Mentions coloring */
+.tabBar-1qdMr5 {background-color: #000;}
+.container-iA3Qrz {background-color: #000;}
+.channelHeader-DFRX8q {background-color: #000;}
+.container-nwU-8G {background-color: #000;}
