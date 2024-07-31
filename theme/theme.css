@@ -5653,8 +5653,8 @@ html.platform-win .titleBar_a934d8 .wordmarkWindows_a934d8 path:first-child {
 	/* remove div separator between Direct Messages and Server List */
 	display: none;
 }
-li.channel_c91bad:nth-child(3),
-li.channel_c91bad:nth-child(4) {
+li.channel_c91bad:nth-child(1),
+li.channel_c91bad:nth-child(3) {
 	/* remove nitro + shop buttons, possibly unreliable */
 	display: none;
 }
